@@ -1,0 +1,13 @@
+.header {
+    height: 50px;
+    background-color: rgb(47, 69, 62);
+    padding: 10px;
+    margin-bottom: 80px;
+}
+
+.header_title {
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.show_info_block {
+    display: flex;
+    justify-content: center;
+    margin: 60px auto;
+    max-width: 660px;
+    background-color: antiquewhite;
+    padding: 15px;
+}
+
+.show_wrap {
+    text-align: left;
+    margin-left: 20px;
+}
